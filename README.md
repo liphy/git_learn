@@ -1,13 +1,8 @@
-Hi
-
-😀
-
-Raining Night.
 
 
+Raining Night Apr 12 2018
 
 --------
-
 
 
 pull
@@ -15,7 +10,6 @@ pull
 ```
 git pull origin master
 ```
-
 
 
 push

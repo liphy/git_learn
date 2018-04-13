@@ -4,6 +4,7 @@ Raining Night Apr 12 2018
 
 --------
 
+### 第一次执行：
 
 pull
 
@@ -19,6 +20,22 @@ git add .
 git commit -m 'first_commit'
 git remote add origin https://github.com/liphy/git_learn.git
 git push origin master
+```
+
+### 日常操作
+
+pull
+
+```
+git clone https://github.com/liphy/git_learn.git
+```
+
+push
+
+```
+git add --ignore-removal .
+git commit -m "commit about the update"
+git push -u origin master
 ```
 
 
